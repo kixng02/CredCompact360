@@ -73,11 +73,11 @@ Streamlit-Specific Skills Showcased
 
 
 #Success Metrics
-✅ User registration with secure password hashing
-✅ JWT token generation and validation
-✅ Redis-based rate limiting on login endpoint
-✅ Docker Compose environment running locally
-✅ Basic load test with k6 showing <100ms P95 latency
+- ✅ User registration with secure password hashing
+- ✅ JWT token generation and validation
+- ✅ Redis-based rate limiting on login endpoint
+- ✅ Docker Compose environment running locally
+- ✅ Basic load test with k6 showing <100ms P95 latency
 
 
 # Proficiency Level Showcased: Backend Architecture	Senior/Lead - Production-scale systems
