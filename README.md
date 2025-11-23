@@ -1,9 +1,9 @@
 # Sentinel-Auth
 APPLICATION features
 The App is a secure authentication system buikt for handling a million users
-• Password hashing, rate limits, and device signals.
-• Login flows break when latency increases at scale.
-• Store credentials safely and respond to mass credential stuffing.
+- Password hashing, rate limits, and device signals.
+- Login flows break when latency increases at scale.
+- Store credentials safely and respond to mass credential stuffing.
 
 # Technical Skills Demonstrated
 🚀 Advanced Backend Development
